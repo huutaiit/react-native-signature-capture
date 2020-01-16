@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-signature-capture@^0.4.10",
+  "_id": "react-native-signature-capture@0.4.10",
+  "_inBundle": false,
+  "_integrity": "sha512-4VbZ6wJVLUdai3WfSiTR2YacTxVuDamBrYl7lxbCrsqa0QyBSiupc5Yz5/Qg7GOuD72jhVXpWJvwJQSmMRy4dQ==",
+  "_location": "/react-native-signature-capture",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-signature-capture@^0.4.10",
+    "name": "react-native-signature-capture",
+    "escapedName": "react-native-signature-capture",
+    "rawSpec": "^0.4.10",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.10"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-signature-capture/-/react-native-signature-capture-0.4.10.tgz",
+  "_shasum": "ee355a7ca3e8341d50304572258607b9876a34a6",
+  "_spec": "react-native-signature-capture@^0.4.10",
+  "_where": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOReact060",
+  "author": {
+    "name": "RepairShopr"
+  },
+  "bugs": {
+    "url": "https://github.com/RepairShopr/react-native-signature-capture/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "Lets users sign their signatures",
+  "homepage": "https://github.com/RepairShopr/react-native-signature-capture#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "signature"
+  ],
+  "license": "ISC",
+  "main": "SignatureCapture.js",
+  "name": "react-native-signature-capture",
+  "peerDependencies": {
+    "react-native": ">=0.47"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RepairShopr/react-native-signature-capture.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.10"
+}

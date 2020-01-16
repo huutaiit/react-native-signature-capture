@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/0b550b32d7d795e0bc2a33234020cc16/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

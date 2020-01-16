@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Volumes/Data/Projects/Mobile/findviet/Mobile/ECOPhase2/node_modules/react-native-signature-capture/android/build/intermediates/res/merged/release/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tai.nguyen/.gradle/caches/transforms-2/files-2.1/356991510eec2984a75ddac4467e9d8c/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
